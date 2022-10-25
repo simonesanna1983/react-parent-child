@@ -1,0 +1,19 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.bckGreen {
+  background-color: rgb(146, 160, 146);
+  border: 1px solid;
+}
+
+.bckbBlue {
+  background-color: rgb(64, 64, 99);
+  border: 1px solid;
+}
+
+.parentWrapper {
+  border: 1px solid crimson;
+  padding: 10px;
+}
